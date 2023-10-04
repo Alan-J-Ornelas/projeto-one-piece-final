@@ -9,6 +9,10 @@
         height: 85%;
     }
 
+    .conteudo .logo{
+        width: 170;
+        height: 100px;
+
     .conteudo {
         justify-content: flex-end;
         left: 0;
